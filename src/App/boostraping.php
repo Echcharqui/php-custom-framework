@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-include_once(__DIR__ . "/../Framework/Main.php");
+require_once(__DIR__ . "/../../vendor/autoload.php");
 
 use Framework\Main;
 
